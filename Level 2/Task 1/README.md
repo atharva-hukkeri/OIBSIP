@@ -1,3 +1,5 @@
 # TASK 1 
 Creat a calculator using CSS, HTML, JavaScript
+
 ### `CALCULATOR`
+![](img/calc.png)

@@ -1,2 +1,3 @@
 # TASK 1 
-### `npm start`
+Creat a calculator using CSS, HTML, JavaScript
+### `CALCULATOR`

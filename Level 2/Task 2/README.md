@@ -1,4 +1,6 @@
-# TASK 1 
-Create a calculator using basic CSS, HTML, JavaScript
+# TASK 2 
+Create a page for someone you admire with basic HTML and CSS.
 
-### `CALCULATOR`
+### `TRIBUTE PAGE`
+![](img/op1.png)
+![](img/op2.png)
